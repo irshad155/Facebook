@@ -1,2 +1,12 @@
+<<<<<<< HEAD
 Test case 01 for facebook login page.
 File updated
+=======
+Test case 01 for facebook login page
+File updated on git hub server
+Update 2
+>>>>>>> 01b47784d995e0ae5c52e07c0bccede38a73c44c
+
+
+
+File updated on laptop
